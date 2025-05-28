@@ -4,7 +4,7 @@
 
 ![{96DA47FF-9EB8-4DDA-8412-EC8AE12F4F65}](https://github.com/user-attachments/assets/4ea52b89-a207-43b4-ac31-bccef3594bcb)
 
-![{CB7A5562-8C2F-47ED-A10B-4FF044E6B68C}](https://github.com/user-attachments/assets/2ddf57c0-304f-4964-9d5a-aa70ebd4f654)
+![{0CD59791-1F18-474D-926B-8646EDFBF896}](https://github.com/user-attachments/assets/53a5f23c-d109-4ef2-b2a9-2b44db16ac55)
 
 
 ## 🚀 О проекте
