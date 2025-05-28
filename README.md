@@ -20,7 +20,7 @@
 1.  Взаимодействие с ИИ моделью (как на приложенном изображении) - `alice_client_terminal.py`
 2.  Голосовой ответ - получение ответа от Алисы в формате `.opus` - `alice_client_receiving_tts.py`
 3.  Функция повтора - реализация SpeechKit(синтез речи) “Повтори за мной” - `alice_client_speechkit_tts.py`
-4.  Распознование речи - реализация speechkit в реальном времени при помощи библиотеки pyaudio - `alice_client_speechkit_asr.py`
+4.  Распознование речи - реализация SpeechKit в реальном времени при помощи библиотеки pyaudio - `alice_client_speechkit_asr.py`
 ---
 
 ## Источники
