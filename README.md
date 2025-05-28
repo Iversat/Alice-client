@@ -3,6 +3,7 @@
 [![MIT License](https://camo.githubusercontent.com/0fa26894f0c44367acd14b9e5fc9e92ccd29fd826e1cc5937ad695860ad1f6c8/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f646d2f79616e6465782d616c6963652d636c69656e742e737667)](https://img.shields.io/npm/dm/yandex-alice-client.svg)
 
 ![{96DA47FF-9EB8-4DDA-8412-EC8AE12F4F65}](https://github.com/user-attachments/assets/4ea52b89-a207-43b4-ac31-bccef3594bcb)
+![{CB7A5562-8C2F-47ED-A10B-4FF044E6B68C}](https://github.com/user-attachments/assets/2ddf57c0-304f-4964-9d5a-aa70ebd4f654)
 
 
 ## 🚀 О проекте
